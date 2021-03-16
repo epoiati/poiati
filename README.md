@@ -6,4 +6,4 @@ Autor: ERICK POIATI E SILVA
 
 Resumo: Trabalho de PDFA1 do curso do TADS IFSP-SPO
 
-Endereço eletrônico do repositório:
+Endereço Eletrônico do repositório: https://github.com/epoiati/poiati.git
