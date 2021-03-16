@@ -1,0 +1,13 @@
+#include <stdio.h> 
+#include <conio.h> 
+//int n1, quadrado=0;  //variável global
+int main() 
+{ 
+ int n1, quadrado=0;  
+ printf("Digite um numero: ");
+ //scanf()- função de captura (leitura)
+ scanf("%i",&n1); //o "%i" indica que é uma variavel inteira - o "&" indica que o valor irá para o endereço de n1
+ quadrado = n1 * n1;
+ printf("Numero digitado............: %i\n",n1);
+ printf("Quadrado do Numero digitado: %i\n", quadrado);
+} 
